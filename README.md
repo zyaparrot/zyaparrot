@@ -13,7 +13,7 @@ You can click the Preview link to take a look at your changes.
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900)<br>
 ![Hadoop Badge](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
-![Spark Badge](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white)
+![Spark Badge](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=ApacheSpark&logoColor=white)<br>
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
