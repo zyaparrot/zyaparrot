@@ -25,6 +25,19 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 
+# 📝Project
+
+## AWS EC2를 사용한 Hadoop Ecosystem 구축
+- 4주간, 5인 팀 프로젝트
+- AWS EC2 인스턴스를 사용하여 6대 규모 클러스터 구축
+- WebHDFS의 REST API를 사용하여 통신 및 데이터 적재
+
+## AWS EMR을 활용한 고객행동데이터 ETL 파이프라인 구축 프로젝트
+- 6주간, 5인 팀 프로젝트
+- AWS Redshift 에서 ELT로 작업 시 과부하가 걸려 ETL로 변경
+- JupyterLab 환경에서 PySpark 이용해 데이터 처리
+
+
 # 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
 [![Gmail Badge](https://img.shields.io/badge/jeff9435@gmail.com-EA4335?logo=Gmail&logoColor=white)](mailto:jeff9435@gmail.com)
