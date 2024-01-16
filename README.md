@@ -12,24 +12,22 @@ AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료 및 5회 수
 <!---
 Badges4-README.md-Profile
 https://github.com/alexandresanlim/Badges4-README.md-Profile
+
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 --->
 # 🧑🏻‍💻Stack
-![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
-<br>
+언어:<br>
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<br>
+클라우드 컴퓨팅 및 인프라:<br>
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
-![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-<br>
+![Docker Badge](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)<br>
+빅데이터 및 데이터 처리:<br>
 ![Hadoop Badge](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
-![Spark Badge](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)
-<br>
+![Spark Badge](https://img.shields.io/badge/Apache_Spark-FFFFFF?style=for-the-badge&logo=apachespark&logoColor=#E35A16)<br>
+데이터베이스:<br>
 ![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
+![Redshift Badge](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=AmazonRedshift&logoColor=white)
 
 <br>
 <br>
