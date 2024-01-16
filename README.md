@@ -2,6 +2,12 @@
 Zyapagetti/Zyapagetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
 --->
+# 🚀About me
+AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
+aaa
+
+<br>
+<br>
 
 <!---
 Badges4-README.md-Profile
