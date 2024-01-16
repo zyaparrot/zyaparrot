@@ -11,6 +11,8 @@ You can click the Preview link to take a look at your changes.
 
 ## 🧑🏻‍💻Stack
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+![Hadoop Badge](https://img.shields.io/badge/Apache_Hadoop-FFFFFF?style=for-the-badge&logo=ApacheHadoop&logoColor=black)
+![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 
 ## 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
