@@ -3,8 +3,8 @@ Zyapagetti/Zyapagetti is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 # 🚀About me
-AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
-aaa
+AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료 및 5회 수상 이력 달성<br>
+
 
 <br>
 <br>
