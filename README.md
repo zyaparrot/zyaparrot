@@ -1,9 +1,3 @@
-- 👋 Hi, I’m @Zyapagetti
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
 <!---
 Zyapagetti/Zyapagetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
@@ -13,7 +7,7 @@ You can click the Preview link to take a look at your changes.
 Badges4-README.md-Profile
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 --->
-## 🧑🏻‍💻Stack
+# 🧑🏻‍💻Stack
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<br>
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900)
 ![Ubuntu Badge](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)<br>
@@ -28,6 +22,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 
-## 🤙Contact
+# 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
 [![Gmail Badge](https://img.shields.io/badge/jeff9435@gmail.com-EA4335?logo=Gmail&logoColor=white)](mailto:jeff9435@gmail.com)
