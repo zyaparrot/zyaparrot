@@ -1,20 +1,40 @@
-<!---
+<!--
 Zyapagetti/Zyapagetti is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
---->
+-->
+
+<!--
+↗ ↙ ↖ ↘→ ← ← ↑ ↓ ↔
+△△▴▵▷▷▸▹▻▻▽▽▾▿◁◁◂◃◅◅
+⇐⇑⇒⇓⇔➡⬅⬇⬆
+➩➪➫➬➭➮➯➱
+➔➘➙➚➛➜➝➞➟➠➡➢➣➤➥➦➧➨
+⇚⇛ ⇽⇾⇿ 
+⇦⇧⇨⇩⇪⌅⌆⌤⏎
+⇕⇖⇗⇘⇙ 
+➳➴➵➶➷➸➹➺➻➼➽➾
+⍇⍈⍐⍗
+↩↪ ↺↻ ➲⤴⤵↵ ↩↪ ↶↷ ⤴ ⤵ ☇ ↰↱ ↴ ↜↝ ↥ ↲↳
+↗ ↙ ↖ ↘
+⇠⇡⇢⇣
+⇄⇅⇆⇇⇈⇉⇊
+⇫⇬⇭⇮⇯⇰⇱⇲⇳
+👉👈👇👆
+-->
+
 # 🚀About me
 AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
-흠
+➜ 장관상 등 총 5회 수상 이력 달성
 
 <br>
 <br>
 
-<!---
+<!--
 Badges4-README.md-Profile
 https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
---->
+-->
 # 🧑🏻‍💻Stack
 언어:<br>
 ![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)<br>
@@ -34,13 +54,13 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 # 📝Project
 
-## AWS EC2를 사용한 Hadoop Ecosystem 구축
+## AWS EC2로 Hadoop Ecosystem 구축
 - 4주간, 5인 팀 프로젝트
 - AWS EC2 인스턴스를 사용하여 6대 규모 클러스터 구축
 - WebHDFS의 REST API를 사용하여 통신 및 데이터 적재
 
-## AWS EMR을 활용한 고객행동데이터 ETL 파이프라인 구축 프로젝트
-- 6주간, 5인 팀 프로젝트
+## AWS EMR플랫폼 환경에서 ETL 파이프라인 구축 프로젝트
+- 6주간, 5인 기업연계 팀 프로젝트
 - AWS Redshift 에서 ELT로 작업 시 과부하가 걸려 ETL로 변경
 - JupyterLab 환경에서 PySpark 이용해 데이터 처리
 
