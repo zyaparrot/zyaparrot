@@ -30,4 +30,4 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 
 ## 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white)](mailto:jeff9435@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/jeff9435@gmail.com-EA4335?logo=Gmail&logoColor=white)](mailto:jeff9435@gmail.com)
