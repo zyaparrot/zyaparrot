@@ -9,6 +9,9 @@ Zyapagetti/Zyapagetti is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
+## 🧑🏻‍💻Stack
+![Python Badge](https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue)
+
 ## 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
 [![Gmail Badge](https://img.shields.io/badge/Gmail-EA4335?logo=Gmail&logoColor=white)](jeff9435@gmail.com)
