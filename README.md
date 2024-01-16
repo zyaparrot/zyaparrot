@@ -25,6 +25,9 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 
+<br>
+<br>
+
 # 📝Project
 
 ## AWS EC2를 사용한 Hadoop Ecosystem 구축
@@ -37,6 +40,8 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 - AWS Redshift 에서 ELT로 작업 시 과부하가 걸려 ETL로 변경
 - JupyterLab 환경에서 PySpark 이용해 데이터 처리
 
+<br>
+<br>
 
 # 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
