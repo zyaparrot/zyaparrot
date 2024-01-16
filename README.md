@@ -14,7 +14,7 @@ You can click the Preview link to take a look at your changes.
 ![AWS Badge](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=AmazonAWS&logoColor=FF9900)
 ![Hadoop Badge](https://img.shields.io/badge/Apache_Hadoop-66CCFF?style=for-the-badge&logo=ApacheHadoop)
 ![Spark Badge](https://img.shields.io/badge/Apache_Spark-E25A1C?style=for-the-badge&logo=ApacheSpark)
-![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
+![MySQL Badge](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
 ![](https://img.shields.io/badge/-?style=for-the-badge&logo=&logoColor=black)
