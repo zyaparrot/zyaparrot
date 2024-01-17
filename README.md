@@ -26,7 +26,7 @@ You can click the Preview link to take a look at your changes.
 <br>
 
 # 🏅Awards
-AI 부트캠프 이어드림스쿨<br>
+## AI 부트캠프 이어드림스쿨<br>
 ➜ 중소벤처기업부 장관상 수상<br>
 ➜ 우수학습자 3회, 개근상 수상<br>
 
