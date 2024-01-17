@@ -25,9 +25,18 @@ You can click the Preview link to take a look at your changes.
 
 <br>
 
+# 🏅Awards
+AI 부트캠프 이어드림스쿨<br>
+➜ 중소벤처기업부 장관상 수상<br>
+➜ 4월, 8월, 12월 우수학습자 수상<br>
+➜ 개근상 수상<br>
+
+<br>
+<br>
+
 # 🚀About me
 AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
-➜ 장관상 등 총 5회 수상 이력 달성
+
 
 <br>
 <br>
