@@ -28,8 +28,7 @@ You can click the Preview link to take a look at your changes.
 # 🏅Awards
 AI 부트캠프 이어드림스쿨<br>
 ➜ 중소벤처기업부 장관상 수상<br>
-➜ 4월, 8월, 12월 우수학습자 수상<br>
-➜ 개근상 수상<br>
+➜ 우수학습자 3회, 개근상 수상<br>
 
 <br>
 <br>
