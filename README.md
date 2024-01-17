@@ -23,6 +23,8 @@ You can click the Preview link to take a look at your changes.
 👉👈👇👆
 -->
 
+<br>
+
 # 🚀About me
 AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
 ➜ 장관상 등 총 5회 수상 이력 달성
@@ -71,3 +73,5 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 # 🤙Contact
 [![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0A66C2?logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/zyaparrot)](https://www.linkedin.com/in/zyaparrot)
 [![Gmail Badge](https://img.shields.io/badge/jeff9435@gmail.com-EA4335?logo=Gmail&logoColor=white)](mailto:jeff9435@gmail.com)
+
+<br>
