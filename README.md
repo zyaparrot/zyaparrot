@@ -23,12 +23,10 @@ You can click the Preview link to take a look at your changes.
 👉👈👇👆
 -->
 
-<br>
 
 # 🚀About me
 AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
 
-<br>
 <br>
 
 # 🏅Awards
@@ -36,7 +34,6 @@ AI 부트캠프 이어드림스쿨 3기 Data Engineer 과정 수료<br>
 &ensp;▻ 중소벤처기업부 장관상 수상<br>
 &ensp;▻ 우수학습자 3회, 개근상 수상<br>
  
-<br>
 <br>
 
 <!--
@@ -60,7 +57,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 ![Redshift Badge](https://img.shields.io/badge/AWS_Redshift-8C4FFF?style=for-the-badge&logo=AmazonRedshift&logoColor=white)
 
 <br>
-<br>
 
 # 📝Project
 
@@ -74,7 +70,6 @@ https://github.com/alexandresanlim/Badges4-README.md-Profile
 - AWS Redshift 에서 ELT로 작업 시 과부하가 걸려 ETL로 변경
 - JupyterLab 환경에서 PySpark 이용해 데이터 처리
 
-<br>
 <br>
 
 # 🤙Contact
